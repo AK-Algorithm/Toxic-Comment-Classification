@@ -9,6 +9,7 @@ This project aims to classify online comments as either toxic or non-toxic using
 - [Getting Started](#getting-started)
 - [Results and Evaluation](#results-and-evaluation)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 
 ## Background
 Online platforms often face challenges with toxic comments that can harm user experience and community engagement. This project seeks to identify and classify comments into toxic and non-toxic categories using natural language processing (NLP) and machine learning.
@@ -36,4 +37,15 @@ The project includes the following key features:
 - Customizable preprocessing pipeline for text cleaning and feature extraction.
 - Evaluated model performance using metrics such as precision, recall, and F1 score.
 
+## Technologies Used
+
+**Programming Language**: Python
+
+**Libraries:**
+
+- **pandas:** For data manipulation.
+- **numpy:** For numerical operations.
+- **scikit-learn:** For machine learning algorithms and evaluation.
+- **nltk:** For natural language processing tasks.
+- **matplotlib and seaborn:** For data visualization.
 
