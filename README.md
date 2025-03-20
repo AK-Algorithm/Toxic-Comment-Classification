@@ -26,7 +26,7 @@ The dataset provided used for this project is sourced from a univeristy assignme
 This project is primarily based on a Jupyter Notebook. After installation, you can open and run the notebook to classify the comments.
 
 ## Results and Evaluation
-The detailed results and evaluation are available in the final report (PDF format)and in markdown format within the Jupyter Notebook.
+The detailed results and evaluation are available in the final report (PDF format) and in markdown format within the Jupyter Notebook.
 
 ## Features
 The project includes the following key features:
